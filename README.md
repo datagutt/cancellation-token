@@ -26,7 +26,7 @@ import {
     SyncCheckpoint,
     AsyncCheckpoint,
     Task,
-} from '@kaisukez/cancellation-token'
+} from '@datagutt/cancellation-token'
 ```
 ### CommonJS (CJS)
 ```js

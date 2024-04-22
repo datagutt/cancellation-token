@@ -1,17 +1,17 @@
 {
-    "name": "@kaisukez/cancellation-token",
+    "name": "@datagutt/cancellation-token",
     "version": "3.1.3",
     "description": "This library provides you ability to cancel async function",
     "author": "Nattapon Chantasiriworawat <nattapon.ctsr@gmail.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kaisukez/cancellation-token.git"
+        "url": "https://github.com/datagutt/cancellation-token.git"
     },
     "bugs": {
-        "url": "https://github.com/kaisukez/cancellation-token/issues"
+        "url": "https://github.com/datagutt/cancellation-token/issues"
     },
-    "homepage": "https://github.com/kaisukez/cancellation-token",
+    "homepage": "https://github.com/datagutt/cancellation-token",
     "keywords": [
         "abort",
         "cancel",
